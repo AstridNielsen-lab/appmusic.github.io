@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recomendação de Músicas</title>
+  <!-- Adicione links para seus estilos CSS e scripts JavaScript aqui, se necessário -->
+</head>
+<body>
+  <h1>Bem-vindo ao seu site de recomendação de músicas!</h1>
+
+  <form id="musicForm">
+    <label for="bandInput">Insira até 10 bandas que você gosta:</label>
+    <input type="text" id="bandInput" name="bandInput" maxlength="100">
+    <button type="button" onclick="submitForm()">Buscar</button>
+  </form>
+
+  <div id="results"></div>
+
+  <script src="/scripts/main.js"></script>
+</body>
+</html>
