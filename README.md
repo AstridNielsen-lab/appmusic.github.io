@@ -12,6 +12,6 @@ Bem-vindo ao seu site de recomendação de músicas! Insira até 10 bandas que v
 
 Aqui você encontrará informações sobre as bandas, incluindo seus nomes, gêneros e popularidade.
 
-Para começar, [clique aqui](./views/index.html)!
+Para começar, [clique aqui](./views/index2.html)!
 
 Divirta-se explorando novas músicas!
