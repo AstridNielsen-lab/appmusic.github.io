@@ -15,3 +15,6 @@ Aqui você encontrará informações sobre as bandas, incluindo seus nomes, gên
 Para começar, [clique aqui](./views/index.html)!
 
 Divirta-se explorando novas músicas!
+
+![image](https://github.com/AstridNielsen-lab/appmusic.github.io/assets/32886080/407de1e9-ca2f-461e-b89b-088fedd9c032)
+
