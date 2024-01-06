@@ -4,7 +4,7 @@ Bem-vindo ao seu site de recomendação de músicas! Insira até 10 bandas que v
 
 ## Como usar
 
-1. Insira até 10 bandas que você gosta na caixa de texto.
+1. Insira 1 banda que você gosta na caixa de texto.
 2. Clique no botão "Buscar" para obter recomendações.
 3. Explore os resultados e descubra novas músicas e bandas!
 
