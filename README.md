@@ -1,6 +1,6 @@
 # Bem-vindo ao appmusic.github.io!
 
-Bem-vindo ao seu site de recomendação de músicas! Insira até 10 bandas que você gosta na caixa de busca e clique no botão "Buscar" para receber recomendações com base nas suas preferências musicais.
+Bem-vindo ao seu site de recomendação de músicas! Insira 1 banda que você gosta na caixa de busca e clique no botão "Buscar" para receber recomendações com base nas suas preferências musicais.
 
 ## Como usar
 
