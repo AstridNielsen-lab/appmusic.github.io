@@ -1,7 +1,7 @@
 const express = require('express');
 const axios = require('axios');
 const app = express();
-const PORT = process.env.PORT || 3000;80,22,443
+const PORT = process.env.PORT || 3000;
 
 const CLIENT_ID = 'd7bc5e84baff4e29955da145950147ab';
 const CLIENT_SECRET = 'e47523c26d6144e48d006217ee6ce2e1';
