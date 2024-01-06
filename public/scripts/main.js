@@ -27,3 +27,4 @@ async function submitForm() {
       resultsContainer.appendChild(resultElement);
     });
   }
+  
